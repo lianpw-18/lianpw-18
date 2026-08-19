@@ -36,7 +36,11 @@ I'm an undergraduate student passionate about web development and information sy
 
 ## 📫 Contact Me
 
-📧 Email : lianpertiwa@gmail.com
+📧 Email : [lianpertiwa@gmail.com](mailto:lianpertiwa@gmail.com)
+
+💼 LinkedIn : [Lian Pertiwa](https://www.linkedin.com/in/lian-pertiwa-0263a4213/)
+
+📸 Instagram : [@lianpw_](https://www.instagram.com/lianpw_/)
 
 🌐 Portfolio : Coming Soon
 
